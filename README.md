@@ -1,4 +1,4 @@
-# inventory-alert-trigger-skill
+# genpark-inventory-alert-trigger-skill
 
 > **GenPark AI Agent Skill** -- Inventory velocity and stockout predictor.
 
